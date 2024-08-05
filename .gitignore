@@ -1,0 +1,5 @@
+tweet-trend-new/
+tweet-trend-new/*
+terraform infrastructure/.terraform/
+terraform infrastructure/.terraform.lock.*
+terraform infrastructure/terraform.*
